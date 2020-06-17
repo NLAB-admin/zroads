@@ -1,6 +1,6 @@
 # Z-Roads
 
-This repository contains a Python script (ZRoads_CNN_prediction.py) and the corresponding trained models to make prediction regarding new imagery. Four trained predictions models have been made available:
+This repository contains a Python script (ZRoads_CNN_prediction.py) and the corresponding trained models to make predictions regarding new imagery. Four trained predictions models have been made available:
 
 1. The model trained all available imagery (this is what the script will use by default)
 
