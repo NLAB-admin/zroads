@@ -14,7 +14,7 @@ The project is detailed as part of a four part blog post on Medium:
 
 Part 1: [Machine Learning for Road Condition Analysis Part 1: Partnerships](https://medium.com/frontier-technology-livestreaming/machine-learning-for-road-condition-analysis-part-1-partnerships-f625caf970a9)
 
-Part 2: When Data Attacks: The challenges of using drones for AI [Available shortly]
+Part 2: [When Data Attacks: The challenges of using drones for AI](https://medium.com/frontier-technology-livestreaming/machine-learning-for-road-condition-analysis-part-2-when-data-attacks-645cd01a763f)
 
 Part 3: No-Surrender Machine Learning: a real-world AI workflow [Available shortly]
 
