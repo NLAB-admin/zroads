@@ -32,5 +32,5 @@ Dr. James Goulding
 james.goulding@nottingham.ac.uk  
 
 Dr. Bertrand Perrat  
-bertrand.perrat@nottingham.ac.uk
+(now at Huawei, Edinburgh)
 
